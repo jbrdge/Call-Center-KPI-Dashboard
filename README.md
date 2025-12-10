@@ -1,6 +1,8 @@
 # Call-Center-KPI-Dashboard
 Final project for AnaylstBuilder.com course: Tableau for Data Analysis
 
+This project is a demonstration of performing exploratory data analysis on synthesized call center data.
+
 ## Tableau Dashboard
 <p><img src="https://raw.githubusercontent.com/jbrdge/Call-Center-KPI-Dashboard/main/kpi-dashboard.png" width="90%"></p>
 
