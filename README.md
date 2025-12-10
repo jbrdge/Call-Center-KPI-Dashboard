@@ -2,7 +2,7 @@
 Final project for AnaylstBuilder.com course: Tableau for Data Analysis
 
 ## Tableau Dashboard
-<p><img src="https://raw.githubusercontent.com/jbrdge/Call-Center-KPI-Dashboard/edit/main/kpi-dashboard.png" width="90%"></p>
+<p><img src="https://raw.githubusercontent.com/jbrdge/Call-Center-KPI-Dashboard/main/kpi-dashboard.png" width="90%"></p>
 
 # Analysis
 - Highest call rate occurs on Monday
